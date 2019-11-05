@@ -20,7 +20,7 @@
     "date-and-time": "^0.6.3",
     "express": "^4.16.4",
     "https": "^1.0.0",
-    "mongoose": "^5.4.3",
+    "mongoose": "^5.7.5",
     "mysql": "^2.16.0",
     "puppeteer": "^1.11.0",
     "puppeteer-firefox": "^0.4.2",
