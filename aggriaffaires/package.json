@@ -18,7 +18,7 @@
     "cheerio": "^1.0.0-rc.2",
     "concurrently": "^4.1.0",
     "date-and-time": "^0.6.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "https": "^1.0.0",
     "mongoose": "^5.4.3",
     "mysql": "^2.16.0",
